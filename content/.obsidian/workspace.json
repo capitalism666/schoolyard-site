@@ -165,11 +165,14 @@
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "command-palette:Открыть палитру команд": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cc02d05319520e7e",
+  "active": "effc73a3806491fe",
   "lastOpenFiles": [
+    "docs/index.md",
+    "docs",
     "акакак.md"
   ]
 }
